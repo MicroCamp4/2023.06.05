@@ -7,5 +7,7 @@ public class App {
         System.out.println("nowa linijka !!!");
 
         System.out.println("cos nowego");
+
+        System.out.println("cos nowego 2");
     }
 }
